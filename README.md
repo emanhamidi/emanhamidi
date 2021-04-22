@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emanhamidi
 - 👀 I’m interested in Creating FrontEnd and BackEnd Applications.
-- 🌱 I’m currently learning Basics of HTML, CSS & JavaScript Languages.
+- 🌱 I’m currently learning Basics of HTML, CSS, & JavaScript as Frontend Language & PHP as Backend Language.
 - 💞️ I’m looking to collaborate on developing Applications to Learn Basics of coding.
 - 📫 How to reach me: iman.hamidi@gmail.com
 
